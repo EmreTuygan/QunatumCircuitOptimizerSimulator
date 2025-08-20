@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project secrets
+.env
+
+#MacOS specific
+.DS_Store
